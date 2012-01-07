@@ -544,7 +544,7 @@
 	</include>
 	<!--notificationBottom-->
 	<include name="toast_Bottom">
-		<posy>26</posy>
+		<posy>30</posy>
 		<width>340</width>
 		<align>right</align>
 		<font>listInfo</font>
