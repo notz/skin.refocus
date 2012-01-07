@@ -85,6 +85,7 @@
 					<label>$INFO[VideoPlayer.Plot]</label>
 					<textcolor>Color7</textcolor>
 					<font>descriptionSmall</font>
+					<include>autoscroll-plot</include>
 				</control>
 			</control>
 		</control>
@@ -123,6 +124,7 @@
 					<label>$INFO[ListItem.Plot]</label>
 					<textcolor>Color7</textcolor>
 					<font>descriptionSmall</font>
+					<include>autoscroll-plot</include>
 				</control>
 			</control>
 		</control>
@@ -171,6 +173,7 @@
 						<label>$INFO[ListItem.Plot]</label>
 						<textcolor>Color7</textcolor>
 						<font>descriptionSmall</font>
+						<include>autoscroll-plot</include>
 					</control>
 				</control>
 			</control>
